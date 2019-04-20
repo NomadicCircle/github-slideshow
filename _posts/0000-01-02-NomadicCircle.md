@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Dylan Brehm was here boiiiiiii pimp my ride
+pimp my ride dylan bremie boi
 Use the left arrow to go back!
